@@ -1,0 +1,15 @@
+	.progress-value {
+    		position:absolute;
+    		right:0;
+    		left:0;
+	}
+	div.progress-bar {
+		color: #333;
+	}
+	.red{
+  		background-color:red;
+	}
+
+	.default{
+  		background-color:#428bca;
+	}
